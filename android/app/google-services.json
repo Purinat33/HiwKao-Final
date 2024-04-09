@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680204930410",
+    "project_id": "hiwkhao-set",
+    "storage_bucket": "hiwkhao-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680204930410:android:6faeedf997bca6ea0f6913",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fLdoEz51b3sOaoGsmePJHIeUK8RuA8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
